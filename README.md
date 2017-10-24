@@ -29,7 +29,7 @@ def julia(z):
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+We learned When creating a complex plane of a larger size how numba saves us time. Also we reviewd the Julia's slide and played with the Terminal to get familiar with julia's syntax. 
 
 ## Honor Pledge
 
