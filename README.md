@@ -1,6 +1,6 @@
 # CS510 CW 8
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Sharon Kim, Ehsan Yaghmaei**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME)
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Sharon Kim, Ehsan Yaghmaei**
